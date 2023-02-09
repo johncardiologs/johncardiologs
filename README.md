@@ -1,2 +1,2 @@
-👋 Hi, I’m John Cambefort, 2021.5 graduate from Middlebury College and currently in a SWE internship at @CardioLogs until November 2nd.
-I have a WIP website at [john-cambefort.eu](https://john-cambefort.eu).
+👋 Hi, I’m John Cambefort, 2021.5 graduate from Middlebury College and current SW @CardioLogs.
+I have a fun little WIP website at [john-cambefort.eu](https://john-cambefort.eu) and a personal github account [@johncambefort](https://github.com/johncambefort/).
